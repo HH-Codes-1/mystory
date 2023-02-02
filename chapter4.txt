@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the new chapter
+=======
+alien chapter 4
+>>>>>>> alien-theme
